@@ -2,3 +2,4 @@ Paper: "Flexible Regular Polygon Formation of Multi-Agent Systems: A Flocking Ap
 
 
 ![SizeScaling](https://github.com/smmss/Regular-Polygon-Formation/blob/main/Size-Scaling.gif)
+
