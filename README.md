@@ -1,6 +1,6 @@
 Paper: "Flexible Regular Polygon Formation of Multi-Agent Systems: A Flocking Approach"
 
-Regular Polygon Formation
+#  **Regular Polygon Formation**
 
 
 ![polygon](https://github.com/smmss/Regular-Polygon-Formation/assets/53211406/e716a406-9ab2-4ecf-ac19-c7c73b91cbe5)
